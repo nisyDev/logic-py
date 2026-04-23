@@ -32,7 +32,7 @@ O projeto está dividido em scripts funcionais (`.py`).
 ## Tecnologias
 * **Linguagem:** Python 3.x
 * **IDE:** VS Code
-* **Bibliotecas:** `random` (para protocolos) e `math` (cálculos).
+* **Bibliotecas:** `random` (para protocolos).
 
 ---
 
