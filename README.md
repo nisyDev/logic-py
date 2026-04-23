@@ -32,7 +32,7 @@ The project is separated in functional scripts (`.py`).
 ## Technologies
 * **Language:** Python 3.x
 * **IDE:** VS Code
-* **Libraries:** `random` (to protocol), `math` (calculation).
+* **Libraries:** `random` (to protocol).
 
 ---
 
